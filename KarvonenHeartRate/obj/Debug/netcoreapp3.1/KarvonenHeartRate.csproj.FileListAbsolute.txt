@@ -1,0 +1,13 @@
+F:\Projects\C#\ControlFlow\ControlFlow\KarvonenHeartRate\bin\Debug\netcoreapp3.1\KarvonenHeartRate.exe
+F:\Projects\C#\ControlFlow\ControlFlow\KarvonenHeartRate\bin\Debug\netcoreapp3.1\KarvonenHeartRate.deps.json
+F:\Projects\C#\ControlFlow\ControlFlow\KarvonenHeartRate\bin\Debug\netcoreapp3.1\KarvonenHeartRate.runtimeconfig.json
+F:\Projects\C#\ControlFlow\ControlFlow\KarvonenHeartRate\bin\Debug\netcoreapp3.1\KarvonenHeartRate.runtimeconfig.dev.json
+F:\Projects\C#\ControlFlow\ControlFlow\KarvonenHeartRate\bin\Debug\netcoreapp3.1\KarvonenHeartRate.dll
+F:\Projects\C#\ControlFlow\ControlFlow\KarvonenHeartRate\bin\Debug\netcoreapp3.1\KarvonenHeartRate.pdb
+F:\Projects\C#\ControlFlow\ControlFlow\KarvonenHeartRate\obj\Debug\netcoreapp3.1\KarvonenHeartRate.AssemblyInfoInputs.cache
+F:\Projects\C#\ControlFlow\ControlFlow\KarvonenHeartRate\obj\Debug\netcoreapp3.1\KarvonenHeartRate.AssemblyInfo.cs
+F:\Projects\C#\ControlFlow\ControlFlow\KarvonenHeartRate\obj\Debug\netcoreapp3.1\KarvonenHeartRate.csproj.CoreCompileInputs.cache
+F:\Projects\C#\ControlFlow\ControlFlow\KarvonenHeartRate\obj\Debug\netcoreapp3.1\KarvonenHeartRate.dll
+F:\Projects\C#\ControlFlow\ControlFlow\KarvonenHeartRate\obj\Debug\netcoreapp3.1\KarvonenHeartRate.pdb
+F:\Projects\C#\ControlFlow\ControlFlow\KarvonenHeartRate\obj\Debug\netcoreapp3.1\KarvonenHeartRate.genruntimeconfig.cache
+F:\Projects\C#\ControlFlow\ControlFlow\KarvonenHeartRate\obj\Debug\netcoreapp3.1\KarvonenHeartRate.csprojAssemblyReference.cache
